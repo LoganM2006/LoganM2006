@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoganM2006
+- :jack_o_lantern: Hi, I’m @LoganM2006
 - 👀 I’m interested in basketball
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on nothing
