@@ -1,3 +1,5 @@
+![octocat-1672843566980](https://user-images.githubusercontent.com/119315537/210580915-138cd528-5b56-4ff8-b77f-01a13d24aa72.png)
+
 - :jack_o_lantern: Hi, I’m @LoganM2006
 - :musical_keyboard: I’m interested in piano
 - 🌱 I’m currently learning web design
