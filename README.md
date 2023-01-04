@@ -6,6 +6,11 @@
 - 🌱 I’m currently learning web design
 - :dragon: I enjoy making models/miniatures
 - 📫 How to reach me mckayl25@wpsma.org
+
+Is a cat | Not a cat
+-------------|--------------
+Octocat | Me
+
 # See current work
 [Turtles](https://LoganM2006.github.io/turtles/index.html)
 
