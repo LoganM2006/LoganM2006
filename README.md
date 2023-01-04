@@ -1,7 +1,7 @@
 - :jack_o_lantern: Hi, I’m @LoganM2006
 - :musical_keyboard: I’m interested in piano
 - 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on nothing
+- :dragon: I enjoy making models
 - 📫 How to reach me mckayl25@wpsma.org
 # See current work
 [Turtles](https://LoganM2006.github.io/turtles/index.html)
