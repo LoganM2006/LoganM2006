@@ -2,7 +2,7 @@
 - :musical_keyboard: I’m interested in piano
 - 🌱 I’m currently learning web design
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 📫 How to reach me mckayl25@wpsma.org
 # See current work
 [Turtles](https://LoganM2006.github.io/turtles/index.html)
 
