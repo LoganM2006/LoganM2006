@@ -15,9 +15,10 @@ Octocat | Me
 
 # See current work
 
-[Turtles](https://LoganM2006.github.io/turtles/index.html)
+### [Turtles](https://LoganM2006.github.io/turtles/index.html)
 
-[Creative Website](https://LoganM2006.github.io/Curacao/creative-website/index.html)
+### [Creative Website](https://LoganM2006.github.io/Curacao/creative-website/index.html)
+
 <!---
 LoganM2006/LoganM2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
