@@ -7,7 +7,7 @@
 - :musical_keyboard: I’m interested in piano
 - 🌱 I’m currently learning web design
 - :dragon: I enjoy making models/miniatures
-- 📫 How to reach me mckayl25@wpsma.org
+- 📫 How to reach me: mckayl25@wpsma.org
 
 Is a cat | Not a cat
 -------------|--------------
