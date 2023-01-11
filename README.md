@@ -3,9 +3,9 @@
 
 
 
-- :jack_o_lantern: Hi, I’m @LoganM2006
+-:spades:Hi, I’m @LoganM2006
 - :musical_keyboard: I’m interested in piano
-- 🌱 I’m currently learning web design
+- :oncoming_taxi: I’m currently learning web design
 - :dragon: I enjoy making models/miniatures
 - 📫 How to reach me: mckayl25@wpsma.org
 
