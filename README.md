@@ -13,7 +13,7 @@ Is a cat | Not a cat
 -------------|--------------
 Octocat | Me
 
-# Student Work
+# My Work
 
 ### [Portfolio](https://LoganM2006.github.io/portfolio/index.html)
 
