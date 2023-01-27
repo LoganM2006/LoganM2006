@@ -6,7 +6,7 @@
 -:spades:Hi, I’m @LoganM2006
 - :musical_keyboard: I’m interested in piano
 - :oncoming_taxi: I’m currently learning web design
-- :dragon: I enjoy making models/miniatures
+- :dragon: I enjoy making model planes
 - 📫 How to reach me: mckayl25@wpsma.org
 
 Is a cat | Not a cat
